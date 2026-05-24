@@ -4,7 +4,7 @@
     <title>Automation Application Changelog</title>
     <item>
       <title>Version 1.0.1</title>
-      <sparkle:releaseNotesLink>https://raw.githubusercontent.com/kisaragi-1132/AM_Update_Bypass_repository/refs/heads/main/appcast.xmls</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink>https://raw.githubusercontent.com/kisaragi-1132/AM_Update_Bypass_repository/refs/heads/main/updatelog.txt</sparkle:releaseNotesLink>
       <pubDate>Thu, 24 May 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://www.googleapis.com/drive/v3/files/13N8hX5sTlbGbJtDZeEPRxUhlUvzCyf-3?alt=media&amp;key=AIzaSyBuQuVoPOve0TmnftOWdrGjWo1gMhA2DU0"
                  sparkle:version="1.0.1"
