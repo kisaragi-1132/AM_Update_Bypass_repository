@@ -7,7 +7,7 @@
       <sparkle:releaseNotesLink>https://raw.githubusercontent.com/kisaragi-1132/AM_Update_Bypass_repository/main/updatelog.txt</sparkle:releaseNotesLink>
       <pubDate>Thu, 24 May 2026 12:00:00 +0000</pubDate>
       <!-- urlの最後にダミーの &amp;ext=.msi を追加します。これでWinSparkleはMSIとして保存します -->
-      <enclosure url="https://www.googleapis.com/drive/v3/files/13N8hX5sTlbGbJtDZeEPRxUhlUvzCyf-3?alt=media&amp;key=AIzaSyBuQuVoPOve0TmnftOWdrGjWo1gMhA2DU0&amp;ext=update.msi"
+      <enclosure url="https://github.com/kisaragi-1132/AM_Update_Bypass_repository/releases/download/v1.0.1/Automation.Application-1.0.0-win64.msi"
                  sparkle:version="1.0.1"
                  sparkle:os="windows"
                  type="application/octet-stream" />
