@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Automation Application Changelog</title>
+    <item>
+      <title>Version 1.0.1</title>
+      <sparkle:releaseNotesLink>https://github.com/kisaragi-1132/AM_Update_Bypass_repositoryreleases</sparkle:releaseNotesLink>
+      <pubDate>Thu, 24 May 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://www.googleapis.com/drive/v3/files/13N8hX5sTlbGbJtDZeEPRxUhlUvzCyf-3?alt=media&key=AIzaSyBuQuVoPOve0TmnftOWdrGjWo1gMhA2DU0"
+                 sparkle:version="1.0.1"
+                 type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
