@@ -1,6 +1,7 @@
-v1.4.0
+v1.5.0
 並列ダウンロードシステム[Aria2c]を統合しました
 aria2cの並列ダウンロードの仕様上、リポジトリサーバーをGoogleDriveからCloudflare R2に移行
 40%ほどダウンロード速度が高速化しました
 
+tacz tacz_backup resourcepacks
 軽微な不具合修正

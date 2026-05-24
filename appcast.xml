@@ -3,12 +3,12 @@
   <channel>
     <title>Automation Application Changelog</title>
     <item>
-      <title>Version 1.4.0</title>
+      <title>Version 1.5.0</title>
       <sparkle:releaseNotesLink>https://raw.githubusercontent.com/kisaragi-1132/AM_Update_Bypass_repository/main/updatelog.txt</sparkle:releaseNotesLink>
       <pubDate>Thu, 24 May 2026 12:00:00 +0000</pubDate>
       <!-- urlの最後にダミーの &amp;ext=.msi を追加します。これでWinSparkleはMSIとして保存します -->
-      <enclosure url="https://github.com/kisaragi-1132/AM_Update_Bypass_repository/releases/download/v1.4.0/Automation.Application-1.4.0-win64.msi"
-                 sparkle:version="1.4.0"
+      <enclosure url="https://github.com/kisaragi-1132/AM_Update_Bypass_repository/releases/download/v1.5.0/Automation.Application-1.5.0-win64.msi"
+                 sparkle:version="1.5.0"
                  sparkle:os="windows"
                  type="application/octet-stream" />
     </item>
