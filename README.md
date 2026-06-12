@@ -11,4 +11,6 @@ Javaのインストール,Modローダーの取得および自動導入,MODパ�
 
 現在の最新バージョンv1.6.0
 
+[内部処理に Aria2c Qt Application Framework を使用しています]
+
 Created by kisaragi
